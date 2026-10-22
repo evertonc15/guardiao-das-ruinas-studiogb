@@ -71,3 +71,16 @@ O golpe apresenta um efeito de energia vermelha.
 
 O Ataque Forte possui 8 frames e utiliza uma área de 32×24 pixels.
 O golpe utiliza energia azul para diferenciá-lo visualmente dos demais ataques.
+
+### Dano
+
+![[prisioneiro-dano.gif|95]]
+
+A animação de dano é utilizada quando o Prisioneiro é atingido por um
+inimigo ou obstáculo.
+
+### Derrota
+
+![[prisioneiro-derrota.gif|96]]
+
+A animação de derrota é utilizada quando a vida do Prisioneiro chega a zero.

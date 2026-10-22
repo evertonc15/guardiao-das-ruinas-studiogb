@@ -27,6 +27,12 @@ Comportamento:
 - Dimensão: 16×16 pixels;
 - animação de caminhada: 4 frames.
 
+### Destruição
+
+![[robo-patrulha-destruicao.gif|152]]
+
+A animação de destruição é reproduzida quando o Robô Patrulha é derrotado.
+
 ## Robô Corrompido
 
 Versão modificada pelo fenômeno do Buraco Negro.
@@ -49,6 +55,12 @@ Características:
 - utiliza uma aparência diferente do Robô Patrulha para representar
   a influência da energia do Buraco Negro.
 
+### Destruição
+
+![[robo-corrompido-destruicao.gif|142]]
+
+A animação de destruição é reproduzida quando o Robô Corrompido é derrotado.
+
 ## Robô Sentinela
 
 Unidade utilizada para proteger a Sala Principal.
@@ -70,3 +82,9 @@ Características:
 - animação de caminhada: 6 frames;
 - possui tamanho maior que os demais robôs para destacar sua função
   de proteção das áreas finais.
+
+### Destruição
+
+![[robo-sentinela-destruicao.gif|132]]
+
+A animação de destruição é reproduzida quando o Robô Sentinela é derrotado.

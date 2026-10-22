@@ -8,6 +8,7 @@
 | Botão [B] + Dpad Down | Descer da plataforma            |
 | Botão [Select]        | Alterna entre tipos de ataque   |
 | Botão [Start]         | Pausa                           |
+
 > A forma definitiva de execução dos diferentes ataques será validada
-> durante a implementação no StudioGB.
+> durante a implementação no GB Studio.
 

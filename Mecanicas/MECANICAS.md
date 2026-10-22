@@ -70,6 +70,19 @@ Características:
 A animação utiliza energia azul e uma área visual maior para transmitir
 a sensação de um golpe mais poderoso.
 
+### Dano
+
+![[prisioneiro-dano.gif|93]]
+
+A animação de dano é utilizada para representar visualmente o momento em
+que o Prisioneiro é atingido por um inimigo ou obstáculo.
+
+### Derrota
+
+![[prisioneiro-derrota.gif|88]]
+
+A animação de derrota é utilizada quando a vida do Prisioneiro chega a zero.
+
 ## Troca de ataque
 
 O jogador poderá alternar o tipo de ataque utilizando o botão Select.
@@ -80,7 +93,17 @@ O jogador possuirá uma quantidade limitada de vida.
 
 A vida será representada visualmente por corações exibidos no HUD.
 
-![[HUD-coração.png|129]]
+### Coração cheio
+
+![[HUD-coração.png|131]]
+
+Representa um ponto de vida disponível.
+
+### Coração vazio
+
+![[HUD-coração-vazio.png|124]]
+
+Representa um ponto de vida perdido.
 
 Cada coração utiliza um sprite de 8×8 pixels.
 
